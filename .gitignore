@@ -1,0 +1,72 @@
+# -----------------------------
+# Python bytecode
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+.venv/
+venv/
+env/
+ENV/
+
+# -----------------------------
+# PyInstaller build output
+# -----------------------------
+build/
+dist/
+*.spec
+
+# If you customize your .spec file and want to keep it, comment the line above
+
+# -----------------------------
+# macOS system files
+# -----------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS Finder metadata
+._*
+
+# macOS trash
+.Trashes
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+
+# -----------------------------
+# Temporary files
+# -----------------------------
+*.tmp
+*.temp
+
+# -----------------------------
+# IDE / Editor files
+# -----------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -----------------------------
+# Python packaging
+# -----------------------------
+*.egg-info/
+.eggs/
+
+# -----------------------------
+# PyInstaller cache
+# -----------------------------
+*.manifest
+*.pkg
+
+# -----------------------------
+# Optional: ignore generated icons if needed
+# -----------------------------
+icon.iconset/
