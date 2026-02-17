@@ -3,6 +3,21 @@ A simple macOS application and Python script to batch convert `.MOD` video files
 
 Designed for camcorder footage (e.g., JVC, Canon, Panasonic) and optimized for compatibility, quality, and smooth playback.
 
+
+## Index
+- [Features](#features)
+- [Output settings](#output-settings)
+- [Requirements](#requirements)
+- [Usage (Python script)](#usage-python-script)
+- [Usage (macOS app)](#usage-macos-app)
+- [Building the macOS app](#building-the-macos-app)
+- [Project structure](#project-structure)
+- [Error Messages and Troubleshooting](#error-messages-and-troubleshooting)
+- [Notes](#notes)
+- [License](#license)
+- [Author](#author)
+
+
 ## Features
 - Batch convert multiple `.MOD` files at once
 - Native macOS file picker (Finder dialog)
